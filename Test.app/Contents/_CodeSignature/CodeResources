@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Scripts/main.rtf</key>
+		<data>
+		57i9b64Ke9pVdxBvWuMqzYvzucI=
+		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		C0IPvye4BU06wkDre73P5E+++b8=
+		pKL5T9tSlGyeaJ9OxFbRIV7mHkA=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -23,15 +27,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Scripts/main.rtf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			57i9b64Ke9pVdxBvWuMqzYvzucI=
+			</data>
+			<key>hash2</key>
+			<data>
+			E86DMF2MTfm7zofhsWWRGyBHl6yyj+pOzv2k9v1mWYQ=
+			</data>
+		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C0IPvye4BU06wkDre73P5E+++b8=
+			pKL5T9tSlGyeaJ9OxFbRIV7mHkA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sp6FJOc9lkvw+54pdeJucOgciOtuNa1aavuwjSTTxnM=
+			J0UyeBetN7OK3QY6Serqfa3NHWripo4v3CmsfnruF5k=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>

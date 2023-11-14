@@ -26,11 +26,11 @@
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.Two-PDF</string>
+	<string>com.apple.ScriptEditor.id.One-PDF</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Two_PDF</string>
+	<string>One_PDF</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -75,15 +75,15 @@
 		<key>bundlePositionOfDivider</key>
 		<real>0.0</real>
 		<key>dividerCollapsed</key>
-		<true/>
+		<false/>
 		<key>eventLogLevel</key>
 		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>748</real>
+		<real>747</real>
 		<key>savedFrame</key>
-		<string>866 117 938 952 0 0 1710 1069 </string>
+		<string>145 176 1215 869 0 0 1710 1069 </string>
 		<key>selectedTab</key>
 		<string>description</string>
 	</dict>
